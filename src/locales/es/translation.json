@@ -1,3 +1,7 @@
 {
-    "welcome": "Bienvenido a React y react-i18next"
+    "welcome": "Bienvenido a React y react-i18next",
+    "description": "Esta es una descripción en español.",
+    "name": "Nombre",
+    "message": "Mensaje",
+    "submit": "Enviar"
   }

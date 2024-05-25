@@ -1,3 +1,7 @@
 {
-    "welcome": "Welcome to React and react-i18next"
+    "welcome": "Welcome to React and react-i18next",
+    "description": "This is a description in English.",
+    "name": "Name",
+    "message": "Message",
+    "submit": "Submit"
   }

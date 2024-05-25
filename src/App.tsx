@@ -1,4 +1,5 @@
 import './App.css'
+import ContactForm from './components/ContactForm';
 import LanguageSwitcher from './components/LanguageSwitcher'
 import { useTranslation } from 'react-i18next'
 
@@ -8,7 +9,11 @@ function App() {
   return (
     <>
       <LanguageSwitcher/>
-      <h2>{t('welcome')}</h2>
+      <main>
+        <h1>{t('welcome')}</h1>
+        <p>{t('description')}</p>
+        <ContactForm />
+      </main>
     </>
   )
 }

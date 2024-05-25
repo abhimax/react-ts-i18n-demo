@@ -1,3 +1,7 @@
 {
-    "welcome": "React සහ react-i18next වෙත සාදරයෙන් පිළිගනිමු"
+    "welcome": "React සහ react-i18next වෙත සාදරයෙන් පිළිගනිමු",
+    "description": "මෙය සිංහල භාෂාවේ විස්තරයකි.",
+    "name": "නම",
+    "message": "පණිවිඩය",
+    "submit": "ඉදිරිපත් කරන්න"
   }
